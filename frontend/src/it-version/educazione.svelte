@@ -7,7 +7,7 @@
     <br>
     A scuola sono state anche svolte, nel corso dell'anno scolastico 2019/2020, un'attività, per la durata di 2 ore, di aggiornamento sui pericoli elettrici e sull'uso del videoterminale
     coi professori <i>Gloria Medici</i> e <i>Nicola Carpanoni</i>, ed un'attività PCTO, dalla durata di 5 ore, chiamata ´<i>Monta Smonta</i>´, riguardante la scelta, l'assemblaggio e la 
-    prima configurazione di un computer
+    prima configurazione di un computer.
 </p>
 
 <style>

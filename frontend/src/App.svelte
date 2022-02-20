@@ -56,12 +56,15 @@
         display: flex;
         flex-direction: column;
         justify-content: space-around;
-        width: 20%;
+        width: 40%;
         margin: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
     }
 
     :global(html) {
         background-color: #222222;
+        text-align: center;
     }
 
     :global(body) {
@@ -69,15 +72,14 @@
         padding: 0;
         display:flex; 
         flex-direction:column; 
-        word-break: break-word;
     }
 
     main {
         color: #f8f8e8;
         font-family:'Courier New', Courier, monospace;
-        margin: 50px auto 0px auto;
         font-size: 1.5em;
         width: 80%;
+        margin: 50px auto 0px auto;
     }
 
     h1 {
@@ -161,7 +163,7 @@
         }
         main {
             font-size: 1em;
-            width: 95%;
+            width: 90%;
         }
         footer {
             font-size: 1.2rem;
