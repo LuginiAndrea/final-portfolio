@@ -45,6 +45,41 @@
     </footer> 
 
 <style>
+/***** Global CSS *****/
+    :global(html) {
+        background-color: #222222;
+    }
+
+    :global(body) {
+        margin: 0;
+        padding: 0;
+        display:flex; 
+        flex-direction:column; 
+    }
+    
+    :global(p) {
+        width: 80%;
+        margin: auto;
+        transition: ease all .5s;
+    }
+
+    :global(a) {
+        text-decoration: none;
+        color: skyblue;
+        transition: ease all .5s;
+    }
+    :global(a:link) {
+        text-decoration: none;
+        color: skyblue;
+    }
+    :global(a:visited) {
+        color: skyblue;
+    }
+    :global(a:hover) {
+        color: blue;
+    }
+
+/***** Scoped main CSS *****/
     .change-page-button {
         margin: 10px;
         padding: 10px;
@@ -60,18 +95,6 @@
         margin: auto;
         margin-top: 50px;
         margin-bottom: 50px;
-    }
-
-    :global(html) {
-        background-color: #222222;
-        text-align: center;
-    }
-
-    :global(body) {
-        margin: 0;
-        padding: 0;
-        display:flex; 
-        flex-direction:column; 
     }
 
     main {
@@ -90,12 +113,12 @@
         transition: ease all .5s;
     }
 
-    :global(p) {
-        width: 80%;
-        margin: auto;
-        transition: ease all .5s;
+    ul {
+        padding: 0;
+        margin: 0;
     }
 
+/***** Scoped footer CSS *****/
     footer {
         margin-top:auto; 
         background-color: black;
@@ -128,21 +151,7 @@
         user-select: none;
     }
 
-    :global(a) {
-        text-decoration: none;
-        color: skyblue;
-        transition: ease all .5s;
-    }
-    :global(a:link) {
-        text-decoration: none;
-        color: skyblue;
-    }
-    :global(a:visited) {
-        color: skyblue;
-    }
-    :global(a:hover) {
-        color: blue;
-    }
+/***** Scoped Media Queries *****/
 
     @media(max-width: 550px) and (min-width: 500px) {
         h1 {
