@@ -12,7 +12,7 @@
         <img src="./img/cambridge.png" alt="Cambridge certification center" style="width:110px; height:110px">
     </li>
     <li>
-        Backend development with <a href="https://nodejs.org/it/">NodeJS</a>, <a href="https://expressjs.com/it/">Express</a>,
+        Backend development with <a href="https://nodejs.org/en/">NodeJS</a>, <a href="https://expressjs.com/en/">Express</a>,
         and <a href="https://www.typescriptlang.org/">Typescript</a>
     </li>
     <li>
@@ -32,7 +32,7 @@
     </li>
     <li>
         Frontend development with
-            <a href="https://it.reactjs.org/">React</a>,
+            <a href="https://en.reactjs.org/">React</a>,
             <a href="https://svelte.dev/">Svelte</a>,
             <a href="https://tailwindcss.com/">TailwindCSS</a> and the programming languages
             <a href="https://www.javascript.com/">Javascript</a> and

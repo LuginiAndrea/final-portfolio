@@ -162,7 +162,7 @@
         }
         main {
             font-size: 1em;
-            width: 95%;
+            width: 90%;
         }
     }
 
