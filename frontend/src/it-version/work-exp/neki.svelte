@@ -7,8 +7,8 @@
     anche come app mobile.
 </div>
 <div name="work-description">
-    Durante il mio periodo l'azienda non ha avuto particolari lavori da farmi fare ad
-    eccezzione dell'attività di rimozione e disattivazione delle SIM di prodotti 
+    Durante il mio periodo l'azienda non ha avuto particolari lavori da assegnarmi ad
+    eccezione dell'attività di rimozione e disattivazione delle SIM di prodotti 
     difettosi. <br>
     Quindi, con l'obiettivo di trarre il meglio da questa esperienza, ho sfruttato la maggior parte del tempo
     osservando il lavoro del programmatore dell'azienda e discutendo con lui delle sue attività.

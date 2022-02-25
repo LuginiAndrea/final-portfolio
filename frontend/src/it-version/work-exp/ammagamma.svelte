@@ -10,7 +10,7 @@
    <a href="https://www.stanford.edu/" target="_blank">Stanford</a>.
 </div>
 <div name="work-description">
-    Insieme al compagno <a href="vilobatirkedis.work" target="_blank"> Kedis Vilobatir </a> abbiamo realizzato un sito internet utile alla
+    Insieme al compagno <a href="https://www.vilobatirkedis.works/" target="_blank"> Kedis Vilobatir </a> abbiamo realizzato un sito internet utile alla
     sensibilizzazione sulle Intelligenze Artificiali, basato sull’esperienza in prima persona
     dell’utente, convertendo sul mondo web l’attività che l’azienda svolgeva in presenza,
     non più possibile per motivi COVID. <br>
@@ -20,7 +20,7 @@
     <li>
         Orario:
         <ul name="Orario:">
-            <li> ore di lavoro</li>
+            <li>160 ore di lavoro</li>
             <li>Orario: flessibile, di norma 9:00-16:00 con pausa dalle 13:00-14:00</li>
             <li>Weekend libero</li>
         </ul>
