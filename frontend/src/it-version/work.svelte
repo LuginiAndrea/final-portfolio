@@ -34,8 +34,8 @@
         top: 0;
         right: 10px;
         display: inline-block;
-        width: 90px;
-        height: 90px;
+        width: 70px;
+        height: 70px;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -43,6 +43,11 @@
         text-decoration: none;
         font-size: 16px;
         cursor: pointer;
+        transition: ease all .5s;
+    }
+    .change-pg-button:hover{
+        background-color: skyblue;
+        border-color: skyblue;
     }
     .right {
         background-image: url("right-arrow.png");
