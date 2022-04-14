@@ -55,6 +55,7 @@
         padding: 0;
         display:flex; 
         flex-direction:column; 
+        
     }
     
     :global(p) {
@@ -84,7 +85,7 @@
         margin: 10px;
         padding: 10px;
         border: 1px solid black;
-        border-radius: 5px;
+        border-radius: 20px;
         background-color: #f0f0f0;
     }
     .nav-list {
@@ -96,11 +97,17 @@
         margin-top: 50px;
         margin-bottom: 50px;
     }
-
+    .nav-list button {
+        cursor: pointer;
+        transition: all .5s ease;
+    }
+    .nav-list button:hover {
+        background-color: skyblue;
+    }
     main {
         color: #f8f8e8;
         font-family:'Courier New', Courier, monospace;
-        font-size: 1.5em;
+        font-size: 1.8em;
         width: 80%;
         margin: 50px auto 0px auto;
     }
@@ -149,6 +156,7 @@
         -webkit-user-select: none;
         -o-user-select: none;
         user-select: none;
+        cursor: pointer;
     }
 
 /***** Scoped Media Queries *****/

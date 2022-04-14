@@ -34,8 +34,8 @@
         top: 0;
         right: 10px;
         display: inline-block;
-        width: 70px;
-        height: 70px;
+        width: 85px;
+        height: 85px;
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
@@ -50,10 +50,10 @@
         border-color: skyblue;
     }
     .right {
-        background-image: url("right-arrow.png");
+        background-image: url("right_arrow.png");
     }
     .left {
-        background-image: url("left-arrow.png");
+        background-image: url("left_arrow.png");
     }
 
     @media(max-width: 550px) {

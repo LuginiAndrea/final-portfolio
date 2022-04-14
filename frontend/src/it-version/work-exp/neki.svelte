@@ -58,6 +58,7 @@
         height: 150px;
         margin-left: 10px;
         border-radius: 80%;
+        padding: 10px;
     }
     @media(max-width: 550px) {
         img {

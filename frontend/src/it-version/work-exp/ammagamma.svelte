@@ -5,8 +5,8 @@
     L'azienda, che ha alle sue dipendenze più di 60 persone, si occupa della realizzazione di soluzioni ad Hoc
     di intelligenza artificiale, ponendo una forte attenzione sulla sinergia lavorativa fra designer, informatici, 
     ingegneri, matematici e filosofi. <br>
-    Collabora con svariate aziende, intrattenendo anche rapporti con partner esteri del calibro di 
-   <a href="https://www.nvidia.com/it-it/" target="_blank">Nvidia</a> e 
+    Collabora con svariate aziende, intrattenendo anche rapporti con partner esteri del calibro di
+   <a href="https://www.nvidia.com/it-it/" target="_blank">Nvidia</a> e
    <a href="https://www.stanford.edu/" target="_blank">Stanford</a>.
 </div>
 <div name="work-description">
@@ -76,6 +76,7 @@
         height: 150px;
         margin-left: 10px;
         border-radius: 80%;
+        padding: 10px;
     }
     @media(max-width: 550px) {
         img {
